@@ -1,0 +1,5 @@
+C:\Users\edson.santos\Downloads\OMLProcessor\Source\NET\bin\OutSystems.NssOMLProcessor.dll
+C:\Users\edson.santos\Downloads\OMLProcessor\Source\NET\bin\OutSystems.NssOMLProcessor.xml
+C:\Users\edson.santos\Downloads\OMLProcessor\Source\NET\obj\Release\OMLProcessor.csproj.AssemblyReference.cache
+C:\Users\edson.santos\Downloads\OMLProcessor\Source\NET\obj\Release\OMLProcessor.csproj.CoreCompileInputs.cache
+C:\Users\edson.santos\Downloads\OMLProcessor\Source\NET\obj\Release\OutSystems.NssOMLProcessor.dll
